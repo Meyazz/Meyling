@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Who Wrote It ?</string>
+    <string name="no_result">No Result Found</string>
+    <string name="no_network">Please check your network connection and try again.</string>
+    <string name="no_search">Please enter a search term</string>
+    <string name="load">Loading......</string>
+    <string name="loading">Loading....</string>
+</resources>
